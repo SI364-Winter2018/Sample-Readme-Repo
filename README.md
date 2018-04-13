@@ -41,8 +41,8 @@ In this project:
 * `/all_searches` -> `searches.html` (login restricted)
 * `/your_students` -> `students.html` (login restricted)
 * `/projects` -> `projects.html` (login restricted)
-* `/student/<name>` -> `specific_student.html`
-* `/project/<ident>` -> `specific_project.html`
+* `/student/<name>` -> `specific_student.html` (login restricted)
+* `/project/<ident>` -> `specific_project.html` (login restricted)
 
 
 ## Differences from my midterm
@@ -55,7 +55,7 @@ My midterm allowed an instructor to enter a student name and name of the student
 
 ### **Documentation README Requirements**
 
-- **[x] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. (You bold things in Markdown by using two asterisks, like this:** `**This text would be bold** and this text would not be`)
+- **[x] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. 
 
 - **[x] The `README.md` file should use markdown formatting and be clear / easy to read.
 
