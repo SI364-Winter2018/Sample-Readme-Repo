@@ -55,9 +55,9 @@ My midterm allowed an instructor to enter a student name and name of the student
 
 ### **Documentation README Requirements**
 
-- **[x] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. 
+**- [x] Create a `README.md` file for your app that includes the full list of requirements from this page. The ones you have completed should be bolded or checked off. 
 
-- **[x] The `README.md` file should use markdown formatting and be clear / easy to read.
+- [x] The `README.md` file should use markdown formatting and be clear / easy to read.
 
 - [x] The `README.md` file should include a 1-paragraph (brief OK) description of what your application does
 
