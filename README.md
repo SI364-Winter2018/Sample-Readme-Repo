@@ -141,14 +141,4 @@ My midterm allowed an instructor to enter a student name and name of the student
 - **[x]  (100 points) Implement user sign-in with OAuth (from any other service), and include that you need a *specific-service* account in the README, in the same section as the list of modules that must be installed.**
 
 
-## **To submit**
-- Commit all changes to your git repository. Should include at least the files:
-  - `README.md`
-  - `SI364final.py`
-  - A `templates/` directory with all templates you have created inside it
-  - May include others (e.g. may include a `static` folder if you are including or uploading static files, but this is not necessary!)
-- Create a GitHub account called `364final` on your GitHub account. (You are NOT forking and cloning anything this time, you are creating your own repo from start to finish.)
-  - Invite users `aerenchyma` (Jackie), `pandeymauli` (Mauli) and `Watel` (Sonakshi, or `sonakshi@umich.edu`) as collaborators on the repository. [Here's the reminder of how to add a collaborator to a repository](https://www.dropbox.com/s/d6btsfxgh6z84bx/Screenshot%202018-02-13%2021.32.11.png?dl=0).
-- Submit the *link* to your GitHub repository to the **SI 364 Final Project** assignment on our Canvas site. The link should be of the form: `https://github.com/YOURGITHUBUSERNAME/364final` (if it doesn't look like that, you are probably linking to something specific *inside* the repo, so make sure it does look like that).
-
 All set!
